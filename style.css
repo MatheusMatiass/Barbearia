@@ -5,7 +5,10 @@ body {
 p {
     text-align: center;
 }
-#missao
+#missao{ 
+    font-size: 20px
+
+}
 
 em strong {
     color: #00e1ff;
